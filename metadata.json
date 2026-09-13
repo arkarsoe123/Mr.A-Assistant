@@ -1,0 +1,6 @@
+{
+  "name": "Mr.A",
+  "description": "Mr.A Myanmar Intelligent Assistant with local multi-profile authentication, welcome onboarding, offline AI, and smart daily life tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
